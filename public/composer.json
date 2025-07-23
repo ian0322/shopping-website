@@ -1,0 +1,14 @@
+{
+    "name": "viteapp/api",
+    "autoload": {
+        "psr-4": {
+            "Viteapp\\Api\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ChenYi",
+            "email": "a0966170322@gmail.com"
+        }
+    ]
+}
